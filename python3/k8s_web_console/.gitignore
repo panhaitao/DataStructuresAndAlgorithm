@@ -1,0 +1,5 @@
+db.sqlite3
+cluster/__pycache__/
+cluster/migrations/
+k8s_web_console/__pycache__/*.*
+k8s_web_console/__pycache__/*pyc
